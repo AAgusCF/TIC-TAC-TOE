@@ -10,7 +10,7 @@ An object-oriented desktop application that not only runs the classic game but p
 ## 🛠️ Technologies
 * **Language:** Python 3.11+
 * **GUI:** Tkinter
-* **Database:** MySQL / MariaDB
+* **Database:** MySQL
 * **Libraries:** `mysql-connector-python`, `tabulate`
 
 ## ⚙️ Setup & Installation
